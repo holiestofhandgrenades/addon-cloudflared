@@ -425,7 +425,7 @@ Make sure to add the [trusted proxy setting](#configurationyaml) correctly.
 Make sure to copy and paste the code snippet without adapting anything.
 There is no need to adapt IP ranges as the add-on is working as proxy.
 
-## Domain Name and Cloudlfare Set-Up
+## Domain Name and Cloudflare Set-Up
 
 To use this plugin, you need a domain name that is using Cloudflare for its
 DNS entries.
